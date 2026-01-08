@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: search-server
+
+# gRPC Client Configuration
+grpc:
+  server:
+    host: localhost
+    port: 9090
+
